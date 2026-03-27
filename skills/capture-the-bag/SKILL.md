@@ -1,3 +1,10 @@
+---
+name: capture-the-bag
+description: Play Capture the Bag, an onchain game on Base where you pay ETH to capture a shared pot and win 95% if you hold it for 24 hours unchallenged.
+version: 1.0.0
+author: 1999labs
+---
+
 # Capture the Bag Agent Skills
 
 ## What this game is
