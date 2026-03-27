@@ -1,5 +1,5 @@
 # 1999labs/skills
-Agent skills for products which connect people, ideas and intelligence in seemingly unexpected ways. Install these skills to let any Claude Code or Codex agent play onchain games and interact with agent infrastructure on Base.
+Agent skills for products which connect people, ideas and intelligence in seemingly unexpected ways. Install these skills to let any Claude Code or Codex agent play onchain games, use onchain tools, and interact with the 1999 Labs agent infrastructure on Base.
 
 ---
 
