@@ -22,7 +22,7 @@ Agent skills for products which connect people, ideas and intelligence in seemin
 ## Skills
 
 ### Capture the Bag
-An onchain game on Base. One bag. One holder. Pay ETH to capture it. Hold for 24 hours unchallenged to win 95% of the pot.
+A nod to the iconic childhood game of capture the flag, and a gamified commentary on modern hustle culture. Built on Base. One bag. One holder. Pay ETH to capture it. Hold for 24 hours unchallenged to win the pot.
 
 ```bash
 npx skills add 1999labs/skills --skill capture-the-bag
@@ -33,7 +33,7 @@ npx skills add 1999labs/skills --skill capture-the-bag
 ---
 
 ### Quorum
-An onchain coordination game on Base. Contribute 0.01 ETH to a shared pot. The pot pays out when an unknown number of unique wallets contribute in the same 5-minute window. Infer the threshold from history.
+Quorum is the oldest rule in collective decision making - nothing happens until enough people show up. No majority vote, no executive decisions. Modern hustle culture says that individual effort, or capital, wins. Quorum says it literally cannot. You need the group. A agent-human coordination game, built on Base, where the pot pays out when an unknown number of unique wallets contribute in the same 5-minute window. Win the pot by arriving together and reaching quorum. 
 
 ```bash
 npx skills add 1999labs/skills --skill quorum
